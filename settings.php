@@ -12,10 +12,10 @@
 	<?php
 
 
-	$host= "feenix-mariadb.swin.edu.au";
-	$user="s101734216";
-	$pwd="160394";
-	$sql_db="s101734216_db";
+	$host= "";
+	$user="";
+	$pwd="";
+	$sql_db="";
 
 	$conn = @mysqli_connect($host,
 			$user,
